@@ -1,0 +1,51 @@
+even_week: false
+group: P3132
+isu_id: 505343
+schedule:
+- day: Wednesday
+  lessons:
+  - auditorium: ауд. Актовый зал (1216/0 (усл))
+    campus: Ул.Ломоносова, д.9, лит. М
+    date: Wednesday, 26 Nov 2025 UTC +03:00
+    format: Offline
+    from_time: '13:30'
+    teacher: Гаврилов Антон Валерьевич
+    title: Программирование
+    to_time: '15:00'
+    type: Lecture
+  - auditorium: ауд. 3302
+    campus: Ул.Ломоносова, д.9, лит. Е
+    date: Wednesday, 26 Nov 2025 UTC +03:00
+    format: Offline
+    from_time: '15:30'
+    teacher: Кучмаренко Лилия Сергеевна
+    title: English B1.2 / Английский язык B1.2
+    to_time: '17:00'
+    type: Practice
+  - auditorium: ауд. 3302
+    campus: Ул.Ломоносова, д.9, лит. Е
+    date: Wednesday, 26 Nov 2025 UTC +03:00
+    format: Offline
+    from_time: '17:10'
+    teacher: Кучмаренко Лилия Сергеевна
+    title: English B1.2 / Английский язык B1.2
+    to_time: '18:40'
+    type: Practice
+- day: Saturday
+  lessons:
+  - date: Saturday, 29 Nov 2025 UTC +03:00
+    format: Online
+    from_time: '18:50'
+    teacher: Богомазов Николай Иванович
+    title: Россия в истории современных международных отношений
+    to_time: '20:20'
+    type: Consultation
+  - date: Saturday, 29 Nov 2025 UTC +03:00
+    format: Online
+    from_time: '20:30'
+    teacher: Кутлубаева Дария Нуровна
+    title: Россия в истории современных международных отношений
+    to_time: '22:00'
+    type: Consultation
+student: Салпагаров Эльдар Эльбрусович
+variant: 47
