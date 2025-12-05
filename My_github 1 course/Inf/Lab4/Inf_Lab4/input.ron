@@ -1,0 +1,71 @@
+(
+    even_week: false,
+    group: "P3132",
+    isu_id: 505343,
+    variant: 47,
+    student: "Салпагаров Эльдар Эльбрусович",
+
+    schedule: [
+        (
+            day: "Wednesday",
+            lessons: [
+                (
+                    date: "Wednesday, 26 Nov 2025 UTC +03:00",
+                    title: "Программирование",
+                    format: Offline,
+                    type: Lecture,
+                    campus: "Ул.Ломоносова, д.9, лит. М",
+                    auditorium: "ауд. Актовый зал (1216/0 (усл))",
+                    from_time: "13:30",
+                    to_time: "15:00",
+                    teacher: "Гаврилов Антон Валерьевич",
+                ),
+                (
+                    date: "Wednesday, 26 Nov 2025 UTC +03:00",
+                    title: "English B1.2 / Английский язык B1.2",
+                    format: Offline,
+                    type: Practice,
+                    campus: "Ул.Ломоносова, д.9, лит. Е",
+                    auditorium: "ауд. 3302",
+                    from_time: "15:30",
+                    to_time: "17:00",
+                    teacher: "Кучмаренко Лилия Сергеевна",Practice
+                ),
+                (
+                    date: "Wednesday, 26 Nov 2025 UTC +03:00",
+                    title: "English B1.2 / Английский язык B1.2",
+                    format: Offline,
+                    type: Practice,
+                    campus: "Ул.Ломоносова, д.9, лит. Е",
+                    auditorium: "ауд. 3302",
+                    from_time: "17:10",
+                    to_time: "18:40",
+                    teacher: "Кучмаренко Лилия Сергеевна",
+                ),
+            ],
+        ),
+        (
+            day: "Saturday",
+            lessons: [
+                (
+                    date: "Saturday, 29 Nov 2025 UTC +03:00",
+                    title: "Россия в истории современных международных отношений",
+                    format: Online,
+                    type: Consultation,
+                    from_time: "18:50",
+                    to_time: "20:20",
+                    teacher: "Богомазов Николай Иванович",
+                ),
+                (
+                    date: "Saturday, 29 Nov 2025 UTC +03:00",
+                    title: "Россия в истории современных международных отношений",
+                    format: Online,
+                    type: Consultation,
+                    from_time: "20:30",
+                    to_time: "22:00",
+                    teacher: "Кутлубаева Дария Нуровна",
+                ),
+            ],
+        ),
+    ]
+)
