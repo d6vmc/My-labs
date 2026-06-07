@@ -1,0 +1,27 @@
+show
+info
+help
+insert 5
+person
+123
+123
+123
+1222-12-12
+1231421342gdsgsdzg3145
+USA
+1234
+12452
+12422
+
+
+
+show
+313
+info
+help
+
+
+
+info
+
+execute_script script2.txt
